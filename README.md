@@ -29,6 +29,7 @@
 
 </div>
 
+[![Siri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siri-004&theme=react-dark)](https://github.com/siri-004)
 ## 🌐 Connect with me
 
   <a href="https://linkedin.com/in/siri-chandana162906" target="_blank">
